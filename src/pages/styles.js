@@ -10,4 +10,8 @@ export const Container = styled.div`
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    div.searchContent{
+        width: 80%;
+        display: flex;
+    }
 `
